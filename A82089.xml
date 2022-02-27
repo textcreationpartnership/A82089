@@ -1,0 +1,319 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration from the nothern [sic] associated counties to the kingdom of England. Declaring the unanimous and faithfull resolution, touching the proceedings of the Parliament and Army, in relation to their setling of the kingdom without a King; and the protestation of the said counties to the Kingdom of Scotland. Also, the declaration of Major General Massey, to the Parliament of Scotland; and the Resolution of the Marquis of Argyle, concerning the Kingdom of England. With severall divine solitudes, and heavenly meditations of a glorious King, briefly collected out of the main principles. Likewise, a declaration of the Parliament of England. And a perfect list of the Lords, Judges, Knights, and Gentlemen, appointed for a Councell of State, to govern the Common-wealths of England and Ireland. Imprimatur, Theodore Jennings.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82089</idno>
+            <idno type="STC">Wing D593</idno>
+            <idno type="STC">Thomason E544_6</idno>
+            <idno type="STC">ESTC R205985</idno>
+            <idno type="EEBO-CITATION">99865197</idno>
+            <idno type="PROQUEST">99865197</idno>
+            <idno type="VID">117434</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82089)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117434)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 84:E544[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration from the nothern [sic] associated counties to the kingdom of England. Declaring the unanimous and faithfull resolution, touching the proceedings of the Parliament and Army, in relation to their setling of the kingdom without a King; and the protestation of the said counties to the Kingdom of Scotland. Also, the declaration of Major General Massey, to the Parliament of Scotland; and the Resolution of the Marquis of Argyle, concerning the Kingdom of England. With severall divine solitudes, and heavenly meditations of a glorious King, briefly collected out of the main principles. Likewise, a declaration of the Parliament of England. And a perfect list of the Lords, Judges, Knights, and Gentlemen, appointed for a Councell of State, to govern the Common-wealths of England and Ireland. Imprimatur, Theodore Jennings.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G. Laurenson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648 [i.e. 1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Feb: 19".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117434:1" rendition="simple:additions"/>
+            <p>A DECLARATION From the Nothern Aſſociated COUNTIES To the Kingdom of ENGLAND.</p>
+            <p>
+               <hi>DECLARING</hi> Their unanimous and faithfull Reſolutions, touching the proceedings of the Parliament and Army, in relation to their ſetling of the <hi>Kingdom</hi> without a <hi>King;</hi> and the Proteſtation of the ſaid Counties to the <hi>Kingdom</hi> of <hi>Scotland.</hi>
+            </p>
+            <p>ALSO, The Declaration of Major General <hi>Maſsoy,</hi> to the Parlia<g ref="char:EOLhyphen"/>ment of <hi>Scotland;</hi> and the Reſolution of the Marquis of <hi>Argyle,</hi> concerning the <hi>Kingdom</hi> of <hi>England.</hi> With ſeverall Divine Solitudes, and Heavenly Medi<g ref="char:EOLhyphen"/>tations of a glorious <hi>King,</hi> briefly collec<g ref="char:EOLhyphen"/>ted out of the main principles.</p>
+            <p>L<gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>WIS<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> A Declaration of the Parliament of <hi>England,</hi> And a perfect Liſt of the Lords, Judges, Knights, and Gentlemen, appointed for a Councell of State, to govern the Common-wealths of <hi>England</hi> and <hi>Ireland.</hi>
+            </p>
+            <floatingText type="license" xml:lang="lat" subtype="imprimatur">
+               <body>
+                  <p>Imprimatur,</p>
+                  <closer>
+                     <signed>THEODORE JENNINGS.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>London,</hi> Printed for <hi>G. Laurenſon, MDCXLVIII.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="declarations">
+            <div type="part">
+               <pb facs="tcp:117434:2"/>
+               <pb n="1" facs="tcp:117434:2"/>
+               <head>A DECLARATION FROM The Northern Counties, containing their cordiall Re<g ref="char:EOLhyphen"/>ſolution and Repreſentation touching the Parlia<g ref="char:EOLhyphen"/>ment and Army, and their proteſtation con<g ref="char:EOLhyphen"/>cerning the Kingdom of Scotland.</head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>I Received yours this poſt, and am glad to ſee things to go on ſo well, God grant it may hold till the whole work be finiſhed, and all injuſtice brought down, that ſo <hi>Englands</hi> Common-wealth and Courts of Juſtice may now be purified from the corrupted Juſtice that hath for many yeares bin executed within her Territories; for it was the ſaying of a learned Au<g ref="char:EOLhyphen"/>thor, <hi>That thoſe Laws were most destructive to a Nation when not to every perſon put in equall ballance and exe<g ref="char:EOLhyphen"/>cution;</hi> and ſeeing that the talleſt Ceder hath juſtly ta<g ref="char:EOLhyphen"/>ſted of the fury of Almighty God againſt him without
+<pb n="2" facs="tcp:117434:3"/>impartiality, let the loweſt ſhrubs hereafter dr<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> dregs of her diſpleaſure; that ſo all thoſe who <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e acted contrary to the known lawes of this Real<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> be brought to condigne puniſhment, and ſeverely <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſhed with true ſentence and judgment; which <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> done, and a cleer way made unto <hi>Babels</hi> utter ruin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the people of <hi>England</hi> then ſing <hi>hallelujah,</hi> and proclaim <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eace throughout her Confines.</p>
+               <p>And although there ſeemeth great oppoſition to the work in hand; yet we doubt not, but divine providence will bring to light, and in its due time diſcover and <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſtrate all the machavilian combinations, now agitating and contriving by the Spirits of Envy and Malignancy, whoſe inveterate apoſtacy, is ready to corrupt and pu<g ref="char:EOLhyphen"/>trifie divers cleer and undefiled Fountains in theſe parts, their endeavors, actions, and deſigns, tending only to the alienation of the hearts of the people from their due o<g ref="char:EOLhyphen"/>dedience to their Repreſentatives, and to inflame and in<g ref="char:EOLhyphen"/>volve this Kingdome in another bloudy and inteſtine war; and to that end, the prelatical Clergy, and the uſur<g ref="char:EOLhyphen"/>ping Royaliſt leaves no meanes unattempted, for ſtiring up the people to an engagement againſt the parliame<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> and army; having had ſeveral meetings in privat and o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſcure places, for the gathering to a head, and to raiſe the ſiege at <hi>Pontefract;</hi> but care is taken to ſuppreſſe their future meetings: and in order thereunto, the well affe<g ref="char:EOLhyphen"/>cted about <hi>Hallifax, Deeds, Bradford, Preston, Mansfield,</hi> and parts adjacent, have declared their cordial reſolu<g ref="char:EOLhyphen"/>tions to riſe as one man, for the aſſiſtance of the Nor<g ref="char:EOLhyphen"/>thern Brigade, a copy whereof followeth.</p>
+               <pb n="3" facs="tcp:117434:3"/>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <p>
+                        <hi>WHereas information is given, That there is great plottings and deſigns in agitation, by the adverſe party to raiſe forces and foment new differences, for the in<g ref="char:EOLhyphen"/>volving this Kingdome in another bloudy and inhumane war, and to eclipſe and obstruct the purity and tranqui<g ref="char:EOLhyphen"/>lity of the Common-wealth of</hi> England, <hi>by promoting and advancing an Arbytrary Government, and infringing the Common Rights and Liberties of the people, for improving their own intereſts, to the end they may return and inflame us again to our late tyrannicall and Norman Bondage. For prevention whereof, we whoſe Names are hereunto ſubſcri<g ref="char:EOLhyphen"/>bed, do declare, That we will give our utmoſt aid and aſſi<g ref="char:EOLhyphen"/>stance to our ever honoured and faithfull Patriot Major Gen.</hi> Lambert, <hi>againſt the common enemy of this Nation; and that we ſhall with the hazard of our lives and for<g ref="char:EOLhyphen"/>tunes, endeavour the preſervation of the peace of theſe Counties, against all forreign oy domestique enemies, And do further unanimouſly declare, and enter into pro<g ref="char:EOLhyphen"/>testation, to live and dye with our Repreſentatives aſsem<g ref="char:EOLhyphen"/>bled in Parl. for establiſhing of the peace of the Kingdom, and perfecting of the great and glorious work in hand; and that we do approve of their late Totes and Declaration for the government of this Kingdom without a ſupream or le<g ref="char:EOLhyphen"/>giſlative power, either by King or Peers, being reſolved to perſevere therein, and to stand in oppoſition against all thoſe, who ſhall dare to propagate, or advance the Kingly prerogative or power within this Nation.</hi>
+                     </p>
+                  </body>
+               </floatingText>
+               <p>This Declaration was ſubſcribed to by many thou<g ref="char:EOLhyphen"/>ſands of the Knights, Gentry, and Comoners with<g ref="char:EOLhyphen"/>in the Counties of <hi>York</hi> and <hi>Lancaſter</hi> and ordered to be printed and publiſhed, &amp; diſperſed through<g ref="char:EOLhyphen"/>out the ſeveral counties on this ſide Trent.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <pb n="4" facs="tcp:117434:4"/>
+                     <p>Sir, As for other intelligence, here is lit<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>le varie<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>ly the riſing of a Scottiſh Miſt, which we doubt not, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>t will ſoon blown over; for our intelligence from thenc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> ſaith, That honeſt <hi>Archibald Cambdell,</hi> the Marqueſſe of <hi>Argyle,</hi> hath declared his diſ-aſſent to a proclamation for crowning the Prince of <hi>Wales</hi> King, and entred his proteſt, and publiſhed his Teſtimony, for a mutual com<g ref="char:EOLhyphen"/>pliance and reſervation of the Union between the two Kingdoms of <hi>England</hi> and <hi>Scotland;</hi> which is the con<g ref="char:EOLhyphen"/>cluſion of this his cordial Repreſentation, from</p>
+                     <closer>
+                        <dateline>
+                           <hi>Doncaster</hi> 
+                           <date>14. <hi>Feb.</hi> 1648.</date>
+                        </dateline>
+                        <signed>
+                           <hi>Your moſt obliged friend, &amp;c.</hi> Nehemiah Reinoldſon.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>Other Letters of a later date, ſay, That the Royal par<g ref="char:EOLhyphen"/>ty begins to take their Spring-flight into <hi>Scotland,</hi> where (as it is reported) Major Gen. <hi>Maſsey</hi> i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> reſident, and doth negotiate with the Eſtates at <hi>Edenburgh,</hi> for an En<g ref="char:EOLhyphen"/>gagement againſt <hi>England,</hi> having declared his reſolu<g ref="char:EOLhyphen"/>tions to joyn with them therein.</p>
+            </div>
+            <div type="part">
+               <head>A Declaration of the Parliament of <hi>England,</hi> and a Liſt of the Names of the Councell of State, who are to governe this Nation.</head>
+               <p>FOraſmuch, as the great expectation of the people of <hi>England,</hi> is to know, what aſſurance they ſhal have, that they are not under an arbytrary power, the parl. of <hi>England</hi> now aſſembled do declare, <hi>That they are fully reſolved to keep, preſerve, and maintain the fundamentall Laws of this Nation, for and concerning the preſervation of the lives properties, and liberties of the people;</hi> and in order thereunto, have appointed a Councell of State for the Government of this Kingdom, a perfect Liſt of their Names are here inſerted verbatim.</p>
+               <pb n="5" facs="tcp:117434:4"/>
+               <list>
+                  <head>A List of the Names of the Councell of State, for the Common-wealth of <hi>England.</hi>
+                  </head>
+                  <item>THe Earl of <hi>Denbigh.</hi>
+                  </item>
+                  <item>Earl of <hi>Malgrave.</hi>
+                  </item>
+                  <item>Earl of <hi>P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>mbroke.</hi>
+                  </item>
+                  <item>Earl of <hi>Salisbury.</hi>
+                  </item>
+                  <item>Lord Generall <hi>Fairfax.</hi>
+                  </item>
+                  <item>Lord <hi>Grey</hi> of <hi>Wark.</hi>
+                  </item>
+                  <item>Lord <hi>Grey</hi> of <hi>Groby,</hi> Son to the Earl of <hi>Stamford.</hi>
+                  </item>
+                  <item>Lord <hi>Liſte.</hi>
+                  </item>
+                  <item>Lieut. Generall <hi>Cr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ell.</hi>
+                  </item>
+                  <item>Major Gen. <hi>Shippon.</hi>
+                  </item>
+                  <item>Lord chief Juſtice <hi>Rolle.</hi>
+                  </item>
+                  <item>Lord chief Juſti<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> St. <hi>John.</hi>
+                  </item>
+                  <item>Lord chief Baron <hi>VVild.</hi>
+                  </item>
+                  <item>Lord Preſident <hi>Bradſhaw.</hi>
+                  </item>
+                  <item>Sir <hi>Arthar Hazlerig.</hi>
+                  </item>
+                  <item>Sir <hi>VVilliam Maſsum.</hi>
+                  </item>
+                  <item>Sir <hi>Gilbert Pickering.</hi>
+                  </item>
+                  <item>Sir <hi>James Harrington.</hi>
+                  </item>
+                  <item>Sir <hi>Henry Van<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>,</hi> junior.</item>
+                  <item>Sir <hi>John Danvers.</hi>
+                  </item>
+                  <item>Sir <hi>VVilliam Armyn.</hi>
+                  </item>
+                  <item>Sir <hi>Henry Mildmay.</hi>
+                  </item>
+                  <item>Sir <hi>VVilliam Conſtable.</hi>
+                  </item>
+                  <item>Alderman <hi>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>enington.</hi>
+                  </item>
+                  <item>Alderman <hi>VVilſon.</hi>
+                  </item>
+                  <item>Mr. <hi>VVhitl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ck</hi> Eſq.</item>
+                  <item>Mr. <hi>Scapely</hi> Eſq.</item>
+                  <item>Mr. <hi>Henningham</hi> Eſq.</item>
+                  <item>Colonel <hi>Ludlow.</hi>
+                  </item>
+                  <item>Mr. <hi>VVallop</hi> Eſq.</item>
+                  <item>Mr. <hi>Hutchinſon</hi> Eſq.</item>
+                  <item>Mr. <hi>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ond</hi> Eſq.</item>
+                  <item>Mr. <hi>Popham</hi> Eſq.</item>
+                  <item>Mr. <hi>VValton</hi> Eſq.</item>
+                  <item>Mr. <hi>Scot</hi> Eſq.</item>
+                  <item>Mr. <hi>Purefoy</hi> Eſq.</item>
+                  <item>Mr. <hi>Jones</hi> Eſq.</item>
+               </list>
+               <p>Which Councell of State, are to receive Inſtructi<g ref="char:EOLhyphen"/>ons from the Repreſentatives of this Kingdom, and to be impowred for the managing of affaires in <hi>England, Ire<g ref="char:EOLhyphen"/>land,</hi> and the Principality of <hi>VVales,</hi> and to act and de<g ref="char:EOLhyphen"/>termine ſuch things, as may be moſt conſiſtent to the advancement of the publike Intereſt of the Common-wealth, and the liberty, freedome, and ſafety of the peo<g ref="char:EOLhyphen"/>ple.</p>
+               <pb n="6" facs="tcp:117434:5"/>
+               <p>
+                  <hi>Divine</hi> Solitudes, <hi>and Heavenly</hi> Meditations.</p>
+               <p>
+                  <hi>Of providence,</hi> That God ſtill knoweth the hearts and deſigns of the wicked, and taketh continual notice of all their actions; and in his due time, will deliver his cho<g ref="char:EOLhyphen"/>ſen people from ſlavery, tyranny, and oppreſſion.</p>
+               <p>
+                  <hi>Of the Kingly Office,</hi> That Chriſt, who purchaſed the Church by his bloud, is appointed by God, to be the <hi>King</hi> and Head of the Church, and Prince over the peo<g ref="char:EOLhyphen"/>ple of God, that his <hi>Kingdom</hi> is not of this World, but a ſpirituall and celeſtial <hi>Kingdom,</hi> that he fulfilled the whole Law of God perfectly in all his actions, that hee fulfilled the law not only for himſelf, but for his peo<g ref="char:EOLhyphen"/>ple, their liberty and freedom; that he ſuffered extream things for us, even the moſt hardeſt uſage, that could be imagined or acted by men; that judgment ſhall bee be pronounced againſt them at the laſt day, according to their workes, and that the glory of Heaven is unſpea<g ref="char:EOLhyphen"/>kable, and in reſpect of us here upon earth, and our toſ<g ref="char:EOLhyphen"/>ſing to and fro, from one place to another, incompre<g ref="char:EOLhyphen"/>henſible.</p>
+            </div>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
